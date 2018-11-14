@@ -1,0 +1,17 @@
+.swiper-container {
+  height: 10rem;
+  padding-top: .6rem; }
+  .swiper-container img {
+    height: 100%;
+    width: 100%; }
+
+.iconlist {
+  height: 20rem;
+  padding: 1rem 0; }
+  .iconlist a {
+    height: 14vh;
+    width: 21vw; }
+    .iconlist a img {
+      width: 80%; }
+
+/*# sourceMappingURL=App.css.map */

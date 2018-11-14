@@ -1,0 +1,10 @@
+.home_page header {
+  background: #fff;
+  font-size: 1.8rem;
+  box-shadow: 0 -24px 50px 15px #999; }
+.home_page main {
+  overflow: auto; }
+.home_page footer {
+  box-shadow: 0 40px 50px 30px #999; }
+
+/*# sourceMappingURL=home.css.map */

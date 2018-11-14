@@ -1,0 +1,26 @@
+/* 移动端 1 rem = 10px    pc端 1rem = 20px */
+html {
+    font-size: 62.5%
+}
+
+@media only screen and (min-width: 481px) {
+    html {
+        font-size:94%!important
+    }
+}
+
+@media only screen and (min-width: 561px) {
+    html {
+        font-size:109%!important
+    }
+}
+
+@media only screen and (min-width: 641px) {
+    html {
+        font-size:125%!important
+    }
+
+    body {
+        max-width: 750px
+    }
+}
